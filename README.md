@@ -1,3 +1,4 @@
+ 
 **Sentiment Analysis Tool for Research Papers**
 
 A multi-format sentiment analysis tool that processes **text, PDF, and DOCX files** to provide sentiment scores and content summaries. Built with **Streamlit** for an interactive and user-friendly experience.
