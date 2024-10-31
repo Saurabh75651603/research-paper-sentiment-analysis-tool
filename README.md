@@ -42,7 +42,3 @@ A multi-format sentiment analysis tool that processes **text, PDF, and DOCX file
 - Streamlit
 - PyMuPDF (`fitz`) for PDF handling
 - `python-docx` for DOCX file handling
-
----
-
-This should cover the basics! You can customize it further with screenshots, examples, and additional sections (e.g., **Contributing** or **License**) if you’d like.
